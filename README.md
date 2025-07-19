@@ -1,4 +1,3 @@
-Here is a comprehensive README.md for the SpectralPalette repository:
 
 # SpectralPalette: GPU-Accelerated Gradient Color Palette Generation
 > Unlocking the full potential of color gradients with perceptual color models and entropy-based optimization.
